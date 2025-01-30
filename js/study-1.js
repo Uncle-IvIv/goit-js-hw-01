@@ -76,3 +76,25 @@
 // console.log(makeTransaction(5, 3000));
 // console.log(makeTransaction(3, 1000));
 // console.log(makeTransaction(10, 500));
+// console.log(typeof typeof typeof typeof 1);
+
+// function checkAge(age) ;
+// function checkAge(age) {
+
+//     console.log(age >= 18;);
+//   }
+//   return `You are an adult`;
+// if (age >= 18 ){
+//  return `You are an adult`;   
+//  console.log(`You are an adult`)
+//   };
+// // if (age) {
+//      return `You are an adult`;   
+     
+//      };
+// function checkAge(age) {
+    // if (checkAge) {
+    //    checkAge = age >= 18;
+    //      }
+    // }
+    // console.log(`You are an adult`)
